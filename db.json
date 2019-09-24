@@ -1,25 +1,5 @@
 {
-  "logs": [
-    {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "date": "03-02-2019",
-      "tech": "Yaphit"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "03-02-2019",
-      "tech": "Lt. Cmdr. LaMarr"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "date": "03-02-2019",
-      "tech": "Lt. Talla"
-    }
-  ],
+  "logs": [],
   "techs": [
     {
       "id": 1,
