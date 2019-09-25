@@ -1,5 +1,13 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "message": "Quantom Drive down",
+      "attention": true,
+      "tech": "Lt. Talla Keyali",
+      "date": "2019-09-25T02:29:42.564Z",
+      "id": 1
+    }
+  ],
   "techs": [
     {
       "id": 1,
