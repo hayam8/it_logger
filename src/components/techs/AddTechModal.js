@@ -71,11 +71,6 @@ const AddTechModal = ({ addTech }) => {
   );
 };
 
-const modalStyle = {
-  width: "75%",
-  height: "75%"
-};
-
 AddTechModal.propTypes = {
   addTech: PropTypes.func.isRequired
 };
