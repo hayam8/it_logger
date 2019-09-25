@@ -6,6 +6,13 @@
       "tech": "Lt. Talla Keyali",
       "date": "2019-09-25T02:29:42.564Z",
       "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Hard drive out on workstation 002",
+      "attention": false,
+      "tech": "Lt. Cmdr. John LaMarr",
+      "date": "2019-09-25T03:07:37.956Z"
     }
   ],
   "techs": [
