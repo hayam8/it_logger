@@ -30,6 +30,11 @@
       "id": 3,
       "firstName": "Lt. Talla",
       "lastName": "Keyali"
+    },
+    {
+      "firstName": "Steve",
+      "lastName": "Newton",
+      "id": 4
     }
   ]
 }
